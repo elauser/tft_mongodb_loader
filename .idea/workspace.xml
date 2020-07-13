@@ -14,7 +14,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lol_matches" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cLW9EoG13J6XSV8a7DCF4lJSmN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/newpackage/main.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/newpackage/agg_tests.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.agg_tests">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="mongo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -39,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newpackage/ETL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="agg_tests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\projects\python\mongo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newpackage" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newpackage/agg_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,6 +99,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.agg_tests" />
+      <item itemvalue="Python.main" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -95,34 +130,44 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590519952691">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="631" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594369994486">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
+    <state x="631" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1594369994486" />
     <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590519952691" />
     <state x="394" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590510205049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="394" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590510205049" />
-    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1590321524876">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="909" y="388" key="FileChooserDialogImpl" timestamp="1594369989712">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
+    <state x="909" y="388" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1594369989712" />
     <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590321524876" />
-    <state width="2539" height="395" key="GridCell.Tab.0.bottom" timestamp="1590573687075">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1069" height="213" key="GridCell.Tab.0.bottom" timestamp="1594636579701">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2539" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590573687075" />
-    <state width="2539" height="395" key="GridCell.Tab.0.center" timestamp="1590573687075">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1069" height="213" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1594636579701" />
+    <state width="1899" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.523.1920.1040@-1920.523.1920.1040" timestamp="1590702023028" />
+    <state width="1259" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590684574741" />
+    <state width="1069" height="213" key="GridCell.Tab.0.center" timestamp="1594636579701">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2539" height="395" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590573687075" />
-    <state width="2539" height="395" key="GridCell.Tab.0.left" timestamp="1590573687075">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1069" height="213" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1594636579701" />
+    <state width="1899" height="397" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.523.1920.1040@-1920.523.1920.1040" timestamp="1590702023028" />
+    <state width="1259" height="397" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590684574741" />
+    <state width="1069" height="213" key="GridCell.Tab.0.left" timestamp="1594636579701">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2539" height="395" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590573687075" />
-    <state width="2539" height="395" key="GridCell.Tab.0.right" timestamp="1590573687075">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1069" height="213" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1594636579701" />
+    <state width="1899" height="397" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.523.1920.1040@-1920.523.1920.1040" timestamp="1590702023028" />
+    <state width="1259" height="397" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590684574740" />
+    <state width="1069" height="213" key="GridCell.Tab.0.right" timestamp="1594636579701">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2539" height="395" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590573687075" />
+    <state width="1069" height="213" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1594636579701" />
+    <state width="1899" height="397" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.523.1920.1040@-1920.523.1920.1040" timestamp="1590702023028" />
+    <state width="1259" height="397" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590684574741" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1590556144488">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -139,17 +184,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590556144488" />
+    <state x="810" y="313" key="MultipleFileMergeDialog" timestamp="1594637291545">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="810" y="313" key="MultipleFileMergeDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1594637291545" />
     <state x="782" y="343" key="SettingsEditor" timestamp="1590308663654">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="343" key="SettingsEditor/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590308663654" />
-    <state x="897" y="601" key="com.intellij.ide.util.TipDialog" timestamp="1590675980154">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="769" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1594369652937">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="897" y="601" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590675980154" />
-    <state x="335" y="440" width="609" height="526" key="find.popup" timestamp="1590519927836">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="769" y="513" key="com.intellij.ide.util.TipDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1594369652937" />
+    <state x="-1247" y="969" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.523.1920.1040@-1920.523.1920.1040" timestamp="1590958847950" />
+    <state x="897" y="601" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1591437614705" />
+    <state x="287" y="375" width="612" height="526" key="find.popup" timestamp="1594637218942">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
+    <state x="287" y="375" width="612" height="526" key="find.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1594637218942" />
     <state x="335" y="440" width="609" height="526" key="find.popup/0.0.2560.1400/-1920.523.1920.1040@0.0.2560.1400" timestamp="1590519927836" />
+    <state x="879" y="310" key="git4idea.branch.GitSmartOperationDialog" timestamp="1594637282612">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="879" y="310" key="git4idea.branch.GitSmartOperationDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1594637282612" />
   </component>
 </project>
